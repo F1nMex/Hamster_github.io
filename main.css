@@ -1,0 +1,16 @@
+.text-header
+{
+    margin-left: 430px;
+    color:orange;
+    background-color: white;
+}
+
+p
+{
+    margin-bottom: 30px;
+}
+.Hamsterimg1
+{
+    transform: scale(100px);
+    margin-left: 410px;
+}
